@@ -67,8 +67,8 @@ The models were trained and evaluated using:
 
 | Model | Accuracy |
 |---|---|
-| Random Forest | 85% |
-| XGBoost | 89% |
+| Random Forest | 71% |
+| XGBoost | 92% |
 
 ---
 
