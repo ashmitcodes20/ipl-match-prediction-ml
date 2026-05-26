@@ -5,6 +5,12 @@ The system uses feature engineering, statistical analysis, and advanced ML algor
 
 ---
 
+# 🌐 Live Demo
+
+👉 [Open Streamlit App](https://ipl-match-prediction-ashmit.streamlit.app/)
+
+---
+
 # 📌 Features
 
 - IPL winner prediction
@@ -121,7 +127,7 @@ ipl-match-prediction-ml/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ipl-match-prediction-ml.git
+git clone https://github.com/ashmitcodes20/ipl-match-prediction-ml.git
 ```
 
 ---
@@ -169,3 +175,4 @@ MIT ADT University
 - Model evaluation and comparison
 - Streamlit deployment integration
 - Real-world sports analytics application
+```
